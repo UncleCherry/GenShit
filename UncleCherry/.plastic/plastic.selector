@@ -1,0 +1,3 @@
+rep "UncleCherry@ssl://bigbald@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/wc4" changeset "51"               
